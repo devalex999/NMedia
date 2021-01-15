@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">nmedia</string>
+    <string name="app_name">Nmedia</string>
+    <string name="text">NMedia!</string>
 </resources>
