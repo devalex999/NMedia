@@ -8,6 +8,6 @@ data class Post(
     var likedByMe: Boolean = false,
     var countLike: Int,
     var countShare: Int,
-    var countVisibility: Int = 0
+    var countVisibility: Int
 )
 
